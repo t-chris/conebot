@@ -1,6 +1,6 @@
-## Conebot - Multi-functional, Simple, and Completely Amateur.
+# Conebot - Multi-functional, Simple, and Completely Amateur.
 > **I HAVE BECOME CONE, DESTROYER OF WORLDS.**
-# What is a Cone/Frustum? (from Wikipedia)
+## What is a Cone/Frustum? (from Wikipedia)
 In  [geometry](https://en.wikipedia.org/wiki/Geometry "Geometry"), a  **frustum**[[1]](https://en.wikipedia.org/wiki/Frustum#endnote_1)  (plural:  _frusta_  or  _frustums_) is the portion of a  [solid](https://en.wikipedia.org/wiki/Polyhedron "Polyhedron")  (normally a  [cone](https://en.wikipedia.org/wiki/Cone_(geometry) "Cone (geometry)")  or  [pyramid](https://en.wikipedia.org/wiki/Pyramid_(geometry) "Pyramid (geometry)")) that lies between one or two  [parallel planes](https://en.wikipedia.org/wiki/Parallel_planes "Parallel planes")  cutting it. A  **right frustum**  is a parallel  [truncation](https://en.wikipedia.org/wiki/Truncation_(geometry) "Truncation (geometry)")  of a  [right pyramid](https://en.wikipedia.org/wiki/Right_pyramid "Right pyramid")  or right cone.[[1]](https://en.wikipedia.org/wiki/Frustum#cite_note-1)
 
 In  [computer graphics](https://en.wikipedia.org/wiki/Computer_graphics "Computer graphics")  the  [viewing frustum](https://en.wikipedia.org/wiki/Viewing_frustum "Viewing frustum")  is the three-dimensional region which is visible on the screen. It is formed by a  [clipped](https://en.wikipedia.org/wiki/Clipping_(computer_graphics) "Clipping (computer graphics)")  pyramid; in particular,  _[frustum culling](https://en.wikipedia.org/wiki/Frustum_culling "Frustum culling")_  is a method of  [hidden surface determination](https://en.wikipedia.org/wiki/Hidden_surface_determination "Hidden surface determination").
