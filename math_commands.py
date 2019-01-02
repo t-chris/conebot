@@ -2,7 +2,7 @@ from discord.ext.commands import Bot
 import math
 
 BOT_PREFIX = ("!")
-TOKEN = "NTI4NjY3NzI2NTAwMDY5Mzc2.DwnNJA.DeuZPwepzAoWieMPMLqyrqw8VtA"
+TOKEN = "token here"
 client = Bot(command_prefix=BOT_PREFIX)
 
 
