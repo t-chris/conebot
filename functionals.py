@@ -4,7 +4,7 @@ import discord
 
 
 BOT_PREFIX = ("!")
-TOKEN = "NTI4NjY3NzI2NTAwMDY5Mzc2.DwnNJA.DeuZPwepzAoWieMPMLqyrqw8VtA"
+TOKEN = "token here"
 client = discord.Client()
 client = Bot(command_prefix=BOT_PREFIX)
 
